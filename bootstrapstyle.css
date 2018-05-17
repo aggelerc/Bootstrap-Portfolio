@@ -15,29 +15,4 @@ footer {
 
 }
 
-@media screen and (max-width: 600px) {
-    .jumbotron {
-      font-size: 6px;
-    }
-  }
-
-@media screen and (max-width: 992px) {
-    body {
-      background-color: orangered;
-    }
-  }
-  
-  
-  @media screen and (max-width: 600px) {
-    body {
-      background-color: limegreen;
-    }
-  }
-
- 
-@media screen and (max-width: 600px) {
-    .navbar-brand {
-      display: none;
-    }
-  }
 
