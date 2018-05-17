@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://cdn.shopify.com/s/files/1/0533/2089/files/5-websites-to-download-free-subtle-textures-subtle.jpg?5724472906039650661)
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+}
+   
+footer {
+    height: 52px;
+    width: 100%;
+    background-color: #666666; 
+    border-top: 5px solid #4aaaa5;
+
+
+}
+
+@media screen and (max-width: 600px) {
+    .jumbotron {
+      font-size: 6px;
+    }
+  }
+
+@media screen and (max-width: 992px) {
+    body {
+      background-color: orangered;
+    }
+  }
+  
+  
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: limegreen;
+    }
+  }
+
+ 
+@media screen and (max-width: 600px) {
+    .navbar-brand {
+      display: none;
+    }
+  }
+
